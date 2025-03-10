@@ -22,3 +22,6 @@ Tailwind CSS (for styling and responsiveness)
 
 Fetch API (to get exchange rates)
 
+![Screenshot 2025-03-10 195647](https://github.com/user-attachments/assets/f4d70e00-af59-4234-9bc2-9f3c47ddd991)
+
+
